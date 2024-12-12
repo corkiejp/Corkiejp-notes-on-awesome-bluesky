@@ -9,7 +9,7 @@ The list will not be categorised but additions made as I research the utilities.
 
 
 ## This is an early start of this!
-Only just created this have more edits to make and ad a longer description for it!
+Only just created this have more edits to make and add a longer description for it!
 
 ## Other utilities and sites to bookmark!
 The below may or may not feature in awesome list!
