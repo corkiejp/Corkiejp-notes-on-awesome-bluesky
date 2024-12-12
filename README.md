@@ -8,6 +8,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 ## Utilities   
 - [Sky Follower Bridge](https://www.sky-follower-bridge.dev/) | [Repo](https://github.com/kawamataryo/sky-follower-bridge) | [Bluesky](https://bsky.app/profile/sky-follower-bridge.dev) - Browser add-on to find your Twitter follows and followers on Bluesky. Chrome is recommend, must regularly updated. You can also scan others followers and import lists from 'Xitter'
 - [TrackBlue](https://track.blue/) by [Ilya | Indie Hacker ~ BlueSky](https://bsky.app/profile/ilyathedev.bsky.social) - schedule posts, track engagement, and manage your audience with powerful CRM tools
+- [Redirect Twitter Share to Bluesky](https://share.notx.blue/) by [Joselito](https://bsky.app/profile/joseli.to) Browser extension that redirects share buttons on Twitter and X.com to Bluesky.
 
 
 ## Other utilities and sites to bookmark!
@@ -15,7 +16,7 @@ The below may or may not feature in awesome list!
 
 - [Bluesky User Count](https://bsky-users.theo.io/) Official Bluesky user count! Compared to next item on list?
 - [Sky Zoo](https://skyzoo.blue/stats) Interesting stats on accounts. Discrepancies on user count due to deletions etc.
-- [Redirect Twitter Share to Bluesky](https://share.notx.blue/) by [Joselito](https://bsky.app/profile/joseli.to) Browser extension that redirects share buttons on Twitter and X.com to Bluesky.
+
   
 
 ## Accounts to follow that add features to BlueSky
