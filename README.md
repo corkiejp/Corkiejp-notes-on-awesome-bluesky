@@ -1,6 +1,6 @@
 # Corkiejp-notes-on-awesome-bluesky
 
-Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky} and listing github and bluesky accounts associated with the utilities!
+Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) and listing github and bluesky accounts associated with the utilities!
 
 ## Utilities   
 - [Sky Follower Bridge](https://www.sky-follower-bridge.dev/) | [Repo](https://github.com/kawamataryo/sky-follower-bridge) | [Bluesky](https://bsky.app/profile/sky-follower-bridge.dev) - Browser add-on to find your Twitter follows and followers on Bluesky. You can also scan others followers and import lists from 'Xitter'
