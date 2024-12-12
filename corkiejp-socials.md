@@ -12,4 +12,4 @@
 ^^ Posted on my account Sept16 see [bluesky post](https://bsky.app/profile/corkiejp.bsky.social/post/3l4cjnbwiyx2x)
 
 ![Joined Github](https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg) 
-^^ Joined GitHub on October 23, 2017
+<< Joined GitHub on October 23, 2017
