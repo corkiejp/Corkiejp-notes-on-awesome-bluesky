@@ -6,3 +6,10 @@
 - Boards.ie: - [corkie](https://www.boards.ie/profile/discussions/corkie) Irish discussion forum ~ Joined February 2001
 - 'Xitter': - [@John_O_Connel1](https://x.com/John_O_Connel1) ~ Joined May 2009 | Used real name instead of handle | Account still active but maybe protecting it after a government is formed in Ireland!
 - ko-fi: - [corkiejp](https://ko-fi.com/corkiejp) only recently created when I bought a developer hopefully a coffee
+
+
+![Corkiejp.bsky.social official user number on bluesky](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lgjvdkqeeutvf7zj6wow3jro/bafkreicbr6sy4pb5zxysm5plx6xdirizmo43qmslccohss5mftqgwfmv2a@jpeg) 
+^^ Posted on my account Sept16 see [bluesky post](https://bsky.app/profile/corkiejp.bsky.social/post/3l4cjnbwiyx2x)
+
+![Joined Github](https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg) 
+^^ Joined GitHub on October 23, 2017
