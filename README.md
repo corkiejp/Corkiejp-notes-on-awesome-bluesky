@@ -1,6 +1,6 @@
 # Corkiejp-notes-on-awesome-bluesky
 
-Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) and listing github and bluesky accounts associated with the utilities!
+Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities.
 
 ## Utilities   
