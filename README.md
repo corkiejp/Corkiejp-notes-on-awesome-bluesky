@@ -21,6 +21,7 @@ The below may or may not feature in awesome list!
 
 ## Corkiejp's social links
 - BlueSky: - [corkiejp.bsky.social](https://bsky.app/profile/corkiejp.bsky.social) | [corkiejp.github.io](https://bsky.app/profile/corkiejp.github.io)
-- Reddit: - [corkiejp](https://www.reddit.com/user/corkiejp/)
+- Github: - [corkiejp](https://github.com/corkiejp) Not much here, not a developer, used the account as resource for web design and/or when using linux. Joined GitHub on October 23, 2017
+- Reddit: - [corkiejp](https://www.reddit.com/user/corkiejp/) ~ Joined Aug 2, 2013
 - Boards.ie : - [corkie](https://www.boards.ie/profile/discussions/corkie) Irish discussion forum ~ Joined February 2001
 - ko-fi: - [corkiejp](https://ko-fi.com/corkiejp)
