@@ -10,6 +10,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [TrackBlue](https://track.blue/) by [Ilya | Indie Hacker ~ BlueSky](https://bsky.app/profile/ilyathedev.bsky.social) - schedule posts, track engagement, and manage your audience with powerful CRM tools
 - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) by [Joselito](https://bsky.app/profile/joseli.to) Browser extension that redirects share buttons on Twitter and X.com to Bluesky.
 - [Bluesky Scheduler](https://www.blueskyscheduler.com/) by [Jack Lewin](https://bsky.app/profile/jacklewin.com) - draft & schedule posts. | **Note** using [OAuth for AT Protocol](https://docs.bsky.app/blog/oauth-atproto) instead of 'app password' which developer says is more secure and a preferred method by bluesky! I was hesitant at first to sign in.
+- [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) by [hugotions](https://bsky.app/profile/hugotions.bsky.social) - easy thread composer & large post splitter. | **Note** At present lnks and account tags don't seem to work.
 
 
 ## Other utilities and sites to bookmark!
