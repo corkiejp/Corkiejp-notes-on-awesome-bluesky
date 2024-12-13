@@ -7,6 +7,11 @@
 - 'Xitter': - [@John_O_Connel1](https://x.com/John_O_Connel1) ~ Joined May 2009 | Used real name instead of handle | Account still active but maybe protecting it after a government is formed in Ireland!
 - ko-fi: - [corkiejp](https://ko-fi.com/corkiejp) only recently created when I bought a developer hopefully a coffee
 
+I have accounts on other platforms but not active on them anymore like Linkedin.
+
+**Note** If you visited this page from [corkiejp's Social World](https://corkiejp.github.io/corkiejp.html) Sorry I was using a website template that included icons for platforms I'm not active on or don't use anymore.
+
+
 
 ![Corkiejp.bsky.social official user number on bluesky](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lgjvdkqeeutvf7zj6wow3jro/bafkreicbr6sy4pb5zxysm5plx6xdirizmo43qmslccohss5mftqgwfmv2a@jpeg) 
 ^^ Posted on my account Sept16 see [bluesky post](https://bsky.app/profile/corkiejp.bsky.social/post/3l4cjnbwiyx2x)
