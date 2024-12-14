@@ -1,6 +1,6 @@
 # **IMPORTANT!** Correct method to link to your profile on bluesky!
 
-This is especially true for private handles, Due to the **Bluesky BUG** where accounts are marked with 'Invalid Handles' your account link might not appear correctly for other users!
+This is especially true for personal/domain handles, Due to the **Bluesky BUG** where accounts are marked with 'Invalid Handles' your account link might not appear correctly for other users!
 
 Instead of linking to a profile with: -
 > https://bsky.app/profile/corkiejp.github.io
