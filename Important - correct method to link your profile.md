@@ -4,8 +4,11 @@ This is especially true for private handles, Due to the **Bluesky BUG** where ac
 
 Instead of linking to a profile with: -
 > https://bsky.app/profile/corkiejp.github.io
+
 use in my case as an example:-
 > https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b
+
+
 
 ## Follow instruction below to get your account 'did' String
 
