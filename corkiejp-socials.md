@@ -1,5 +1,6 @@
 ## Corkiejp's social links
-- BlueSky: - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug |
+- BlueSky: -
+- - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug |
 - - [corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) Created this account on 01/12/2024
 - Mastodon: - [@corkiejp@mastodon.social](https://mastodon.social/@corkiejp) - Joined 14/12/2024 ~ To protect my handle, probably didn't need to with the fediverse?
 - - I'm [@corkiejp@flipboard.social](https://flipboard.social/@corkiejp) on #Mastodon! Come follow me. 
