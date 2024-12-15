@@ -35,6 +35,7 @@ Just change the account after 'handle='!
 **Sky Zoo also shows 'did' info** as long as you don't look at an 'invalid handle'!
 
 [Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev)
+
 ![Account profile string and where you find it!](/assets/sky_zoo_did.PNG)
 
 ## Create Permalinks for Bluesky posts or threads.
