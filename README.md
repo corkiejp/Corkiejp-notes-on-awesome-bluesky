@@ -21,7 +21,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 The below may or may not feature in awesome list!
 
 - [Bluesky User Count](https://bsky-users.theo.io/) Official Bluesky user count! Compared to next item on list?
-- [Sky Zoo](https://skyzoo.blue/stats) Interesting stats on accounts. Discrepancies on user count due to deletions etc.
+- [Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev) - Interesting stats on accounts. Discrepancies on user count due to deletions etc.
 
   
 
