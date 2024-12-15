@@ -22,6 +22,7 @@ The below may or may not feature in awesome list!
 
 - [Bluesky User Count](https://bsky-users.theo.io/) Official Bluesky user count! Compared to next item on list?
 - [Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev) - Interesting stats on accounts. Discrepancies on user count due to deletions etc.
+  - Additional feature added on 15/12/2024 Away to create [#permalinkblueskyposts](https://bsky.app/hashtag/PermalinkBlueskyposts) is the latest feature of 'Sky Zoo' with the 🐢 ~ Turtle module!
 
   
 
