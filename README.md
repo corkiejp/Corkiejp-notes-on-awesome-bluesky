@@ -5,6 +5,9 @@ The list will not be categorised but additions made as I research the utilities.
 
 As excellent as 'Fishttp' list is I found it lacking in contacts for the developers, so you can contact them with bug reports, improvement requests or other reasons? I found myself searching for that information when testing out utilities. So hoping these notes will benifit others?
 
+##Important!
+[Correct method to link to your profile on bluesky!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/Important-correct_method_to_link_your_profile.md)
+
 ## Utilities   
 - [Sky Follower Bridge](https://www.sky-follower-bridge.dev/) | [Repo](https://github.com/kawamataryo/sky-follower-bridge) | [Bluesky](https://bsky.app/profile/sky-follower-bridge.dev) - Browser add-on to find your Twitter/'Threads' follows and followers on Bluesky. Chrome is recommend, must regularly updated. You can also scan others followers and import lists from 'Xitter'
 - [TrackBlue](https://track.blue/) by [Ilya | Indie Hacker ~ BlueSky](https://bsky.app/profile/ilyathedev.bsky.social) - schedule posts, track engagement, and manage your audience with powerful CRM tools
