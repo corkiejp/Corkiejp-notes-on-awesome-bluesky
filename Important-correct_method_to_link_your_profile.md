@@ -30,3 +30,8 @@ Using my handle as an example the [results of it](https://bsky.social/xrpc/com.a
 Just change the account after 'handle='!
 
 ^^ [Source where I found that api method](https://www.reddit.com/r/BlueskySocial/comments/15hbu83/comment/jusiaws/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+# Sky Blue also shows 'did' info!
+[Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev)
+![Account profile string and where you find it!](/assets/sky_zoo_did.PNG)
+
