@@ -28,3 +28,5 @@ You can make a request to the server at the url below:-
 Using my handle as an example the [results of it](https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=corkiejp.github.io)
 
 Just change the account after 'handle='!
+
+^^ [Source where I found that api method](https://www.reddit.com/r/BlueskySocial/comments/15hbu83/comment/jusiaws/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
