@@ -2,6 +2,8 @@
 
 This is especially true for personal/domain handles, Due to the **Bluesky BUG** where accounts are marked with 'Invalid Handles' your account link might not appear correctly for other users!
 
+But will work with the default bluesky social handles in case your encounter the bug.
+
 Instead of linking to a profile with: -
 > https://bsky.app/profile/corkiejp.github.io
 
