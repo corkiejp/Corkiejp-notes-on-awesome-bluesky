@@ -17,3 +17,14 @@ use in my case as an example:-
 **Found**: - settings – account – handle – own domain – no dns panel – click copy code.
 
 ![Account profile string and where you find it!](/assets/blueskyaccountstring-Capture.PNG)
+
+
+## Another method to get any user 'did' by using an api request:-
+
+You can make a request to the server at the url below:-
+
+> https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=corkiejp.github.io
+
+Using my handle as an example the [results of it](https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=corkiejp.github.io)
+
+Just change the account after 'handle='!
