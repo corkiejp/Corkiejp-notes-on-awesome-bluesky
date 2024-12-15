@@ -33,5 +33,6 @@ Just change the account after 'handle='!
 
 # Sky Blue also shows 'did' info!
 [Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev)
+
 ![Account profile string and where you find it!](/assets/sky_zoo_did.PNG)
 
