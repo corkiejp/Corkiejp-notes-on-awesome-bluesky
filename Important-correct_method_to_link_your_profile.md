@@ -14,4 +14,4 @@ use in my case as an example:-
 
 **Found**: - settings – account – handle – own domain – no dns panel – click copy code.
 
-![Account profile string and where you find it!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/blueskyaccountstring-Capture.PNG)
+![Account profile string and where you find it!](/assets/blueskyaccountstring-Capture.PNG)
