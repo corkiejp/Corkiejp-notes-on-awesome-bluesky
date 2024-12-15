@@ -37,7 +37,7 @@ The below may or may not feature in awesome list!
 
 ## corkiejp's social links
 - BlueSky: -
-- - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug
-- - [corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) Created this account on 01/12/2024
+  - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug
+  - [corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) Created this account on 01/12/2024
 * See additional socials proving I have been using the 'corkiejp' handle for years. << [Click here!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/corkiejp-socials.md)
   
