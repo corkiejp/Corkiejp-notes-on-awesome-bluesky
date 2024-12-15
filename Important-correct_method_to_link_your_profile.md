@@ -33,6 +33,7 @@ Just change the account after 'handle='!
 
 **Sky Zoo also shows 'did' info** as long as you don't look at an 'invalid handle'!
 [Sky Zoo](https://skyzoo.blue/stats) by [JYC](https://bsky.app/profile/jyc.dev)
-
 ![Account profile string and where you find it!](/assets/sky_zoo_did.PNG)
 
+## Create Permalinks for Bluesky posts or threads.
+JYC of 'Sky zoo' has added 🐢 ~ Turtle module which creates **permalinks** for posts. See [Bluesky Thread](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3lddmk6kefc26)
