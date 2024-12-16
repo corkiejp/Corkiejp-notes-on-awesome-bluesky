@@ -1,5 +1,5 @@
 # **IMPORTANT!** Correct method to link to your profile on bluesky!
-- **Permalink** for your profile link using the 'did' string by [clicking here](#new-method-using-skyzooblue-for-getting-did-profile-url)!
+- **Permalink** for your profile link using the 'did' string by [clicking here](#permalinkdidprofile-obvious-method-to-get-it)!
 - **Permalinks** for posts jump down to latest edit by [clicking here](#create-permalinks-for-bluesky-posts-or-threads)!
 
 This is especially true for personal/domain handles, Due to the **Bluesky BUG** where accounts are marked with 'Invalid Handles' your account link might not appear correctly for other users!
@@ -13,7 +13,9 @@ use in my case as an example:-
 > https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b
 
 ## Permalinkdidprofile Obvious method to get it.
+
 Click on your tag in a post, or create a post, tagging yourself.
+
 The resulting link will produce a url containing your 'did' string!
 
 
