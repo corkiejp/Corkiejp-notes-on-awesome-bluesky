@@ -12,7 +12,7 @@ use in my case as an example:-
 > https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b
 
 
-## New method using 'skyzoo.blue'for getting 'did' profile url!
+## New method using 'skyzoo.blue' for getting 'did' profile url!
 Vist [Sky Zoo](https://skyzoo.blue/stats) when you have a 'Valid Handle'!
 - Enter your account
 - Click on 'profile picture'/'avatar' and you will be brought to a link using it!
