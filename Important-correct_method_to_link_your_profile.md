@@ -12,6 +12,10 @@ Instead of linking to a profile with: -
 use in my case as an example:-
 > https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b
 
+## Permalinkdidprofile Obvious method to get it.
+Click on your tag in a post, or create a post, tagging yourself.
+The resulting link will produce a url containing your 'did' string!
+
 
 ## New method using 'skyzoo.blue' for getting 'did' profile url!
 Vist [Sky Zoo](https://skyzoo.blue/stats) when you have a 'Valid Handle'!
