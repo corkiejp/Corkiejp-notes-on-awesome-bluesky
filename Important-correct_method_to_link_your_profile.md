@@ -47,5 +47,5 @@ Just change the account after 'handle='!
 
 ## Create Permalinks for Bluesky posts or threads.
 JYC of 'Sky zoo' has added 🐢 ~ Turtle module which creates **permalinks** for posts. See [Bluesky Thread](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3lddmk6kefc26)
-- 📌 On any post in bsky, prefix the url with skyzoo.blue/ >> 🐢 ~ Turtle module << #permalinkblueskyposts
+- 📌 On any post in bsky, prefix the url with 'skyzoo.blue/' >> 🐢 ~ Turtle module << #permalinkblueskyposts
 
