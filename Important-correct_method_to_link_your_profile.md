@@ -1,6 +1,6 @@
 # **IMPORTANT!** Correct method to link to your profile on bluesky!
 - **Permalink** for your profile link using the 'did' string by [clicking here](#permalinkdidprofile-obvious-method-to-get-it)!
-- **Permalinks** for posts jump down to latest edit by [clicking here](#create-permalinks-for-bluesky-posts-or-threads)!
+- **Permalinks** for posts scroll down to this part by [clicking here](#create-permalinks-for-bluesky-posts-or-threads)!
 
 This is especially true for personal/domain handles, Due to the **Bluesky BUG** where accounts are marked with 'Invalid Handles' your account link might not appear correctly for other users!
 
