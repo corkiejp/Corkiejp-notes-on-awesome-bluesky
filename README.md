@@ -19,7 +19,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) by [hugotions](https://bsky.app/profile/hugotions.bsky.social) - easy thread composer & large post splitter. | **Note** At present links and account tags don't seem to work. [My 1st test post using it.](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3ld5khcppwh2w)
 
 ## Latest Utility
-- [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) [Franck | Indie hacker]([https://bsky.app/profile/jacklewin.com](https://bsky.app/profile/franck.blue)) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
+- [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) [Franck | Indie hacker]([https://bsky.app/profile/jacklewin.com)(https://bsky.app/profile/franck.blue)) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
 
 
 ## Other utilities and sites to bookmark!
