@@ -20,7 +20,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 ## Latest Utility
 - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
-  - Gave feedback on bug in that post earlier, hidden feeds list.
+  - Gave feedback on a bug in that thread earlier, 'hidden feeds list'.
 
 
 ## Other utilities and sites to bookmark!
