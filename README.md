@@ -1,6 +1,6 @@
 # corkiejp-notes-on-awesome-bluesky
 
-[**Latest utility added here!**](#latest-utility) - 'Bluesky+' << Click link to jump to it!
+[**Latest utility added here!**](#latest-utility) - 'Bluesky+' & 'Skywriter.blue]' << Click link to jump to it!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities.
@@ -21,6 +21,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 ## Latest Utility
 - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
   - Gave feedback on a bug in that thread earlier, 'hidden feeds list'.
+- [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages.(not for self hosting yet!).
 
 
 ## Other utilities and sites to bookmark!
