@@ -1,9 +1,11 @@
 # corkiejp-notes-on-awesome-bluesky
 
-[**Latest utility added here!**](#latest-utility) - 'Bluesky+' & 'Skywriter.blue' << Click link to jump to it!
+**Latest utility added here!** - 'Bluesky+', 'Skywriter.blue' & Skythread!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
-The list will not be categorised but additions made as I research the utilities.
+The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
+
+**Note:** - I have started to use Bluesky Permalinks on this guide, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
 
 As excellent as 'Fishttp' list is I found it lacking in contacts for the developers, so you can contact them with bug reports, improvement requests or other reasons? I found myself searching for that information when testing out utilities. So hoping these notes will benifit others?
 
@@ -17,8 +19,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Redirect Twitter Share to Bluesky](https://share.notx.blue/) by [Joselito](https://bsky.app/profile/joseli.to) Browser extension that redirects share buttons on Twitter and X.com to Bluesky.
 - [Bluesky Scheduler](https://www.blueskyscheduler.com/) by [Jack Lewin](https://bsky.app/profile/jacklewin.com) - draft & schedule posts. | **Note** using [OAuth for AT Protocol](https://docs.bsky.app/blog/oauth-atproto) instead of 'app password' which developer says is more secure and a preferred method by bluesky! I was hesitant at first to sign in.
 - [Bluesky Thread Composer](https://bluesky-thread-composer.pages.dev/) by [hugotions](https://bsky.app/profile/hugotions.bsky.social) - easy thread composer & large post splitter. | **Note** At present links and account tags don't seem to work. [My 1st test post using it.](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3ld5khcppwh2w)
-
-## Latest Utility
+- [Skythread](https://blue.mackuba.eu/skythread/) | [Repo](https://github.com/mackuba/skythread) | [Bluesky](https://bsky.app/profile/did:plc:oio4hkxaop4ao4wz2pp3f4cr) - thread viewer
 - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
   - Gave feedback on a bug in that thread earlier, 'hidden feeds list'.
 - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages.(not for self hosting yet!).
