@@ -1,6 +1,6 @@
 # corkiejp-notes-on-awesome-bluesky
 
-[**Latest utility added here!**](#latest-utility) - 'Bluesky+' & 'Skywriter.blue]' << Click link to jump to it!
+[**Latest utility added here!**](#latest-utility) - 'Bluesky+' & 'Skywriter.blue' << Click link to jump to it!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities.
