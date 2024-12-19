@@ -5,7 +5,8 @@
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
 
-**Note:** - I have started to use Bluesky Permalinks on this guide, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
+**Note:** - I have started to use [Bluesky Permalinks](https://blue.mackuba.eu/skythread/?hash=permalinkblueskyposts) {#permalinkdidprofile & #permalinkblueskyposts)
+on this list, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
 
 As excellent as 'Fishttp' list is I found it lacking in contacts for the developers, so you can contact them with bug reports, improvement requests or other reasons? I found myself searching for that information when testing out utilities. So hoping these notes will benifit others?
 
