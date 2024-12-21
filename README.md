@@ -36,7 +36,7 @@ The below may or may not feature in awesome list!
   
 
 ## Accounts to follow that add features to BlueSky
-- [Listifications](https://bsky.app/profile/listifications.app) by [Dominik Picheta](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii):- Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you. Even with following it a few days agp, yet to receive a notification.
+- [Listifications](https://bsky.app/profile/listifications.app) by [Dominik Picheta](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii):- Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you.**Note: -** Notifications by DM's, so you at least need to allow them to 'users I folow'!
 - ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/jaz.bsky.social) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser!
 - [Likes/Reposts](https://goodfeeds.co/likes-media-reposts) by [Jerry Chen](https://bsky.app/profile/jcsalterego.bsky.social) - A feed of your liked/reposted content. Surprised that these features are not default in the app itself. Notice the bareness of a new account I created recenty!
 
