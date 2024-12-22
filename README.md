@@ -1,6 +1,6 @@
 # corkiejp-notes-on-awesome-bluesky
 
-**Latest utility added here!** - 'Bluesky+', 'Skywriter.blue' & 'Skythread'!
+**Latest utility added here!** - 'Bluniversal Comments'!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
