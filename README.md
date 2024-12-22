@@ -24,7 +24,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
   - Gave feedback on a bug in that thread earlier, 'hidden feeds list'.
 - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages.(not for self hosting yet!).
-- [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) <<{Github repo} | [Bluesky](https://bsky.app/profile/bluniversalcomm.bsky.social) – Browser extension to start a conversation next to any web page using your Bluesky account. Extensions due an update to fix a bug that prevent creation of new comments. Manually Instal from github! See it in action on this page!
+- [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) <<{Github repo} | [Bluesky](https://bsky.app/profile/bluniversalcomm.bsky.social) – Browser extension to start a conversation next to any web page using your Bluesky account. Extensions due an update to fix a bug that prevent creation of new comments. Manually Instal from github! See it in action on this page! [Bluesky account](https://bsky.app/profile/bluniversal.bsky.social) where comments are posted to from extension.
 
 
 ## Other utilities and sites to bookmark!
