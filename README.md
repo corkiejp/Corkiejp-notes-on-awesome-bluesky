@@ -1,6 +1,6 @@
 # corkiejp-notes-on-awesome-bluesky
 
-**Latest utility added here!** - 'Bluniversal Comments'!
+**Latest utility added here!** - 'bskyutils'!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
@@ -25,6 +25,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
   - Gave feedback on a bug in that thread earlier, 'hidden feeds list'.
 - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages.(not for self hosting yet!).
 - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) <<{Github repo} | [Bluesky](https://bsky.app/profile/bluniversalcomm.bsky.social) – Browser extension to start a conversation next to any web page using your Bluesky account. Extensions due an update to fix a bug that prevent creation of new comments. Manually Instal from github! See it in action on this page! [Bluesky account](https://bsky.app/profile/bluniversal.bsky.social) where comments are posted to from extension.
+- [bskyutils](https://bskyutils.com/) | [Bluesky](https://bsky.app/profile/bskyutils.com) by [Hoa Nguyen | Indie Maker](https://bsky.app/profile/did:plc:3qkkwy3n623wzlrvduudhp5h) - Suite of tools: - Analytics Tool, Follow Checker, Starter Pack Finder and Audience Analytics.
 
 
 ## Other utilities and sites to bookmark!
