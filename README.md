@@ -1,6 +1,6 @@
 # corkiejp-notes-on-awesome-bluesky
 
-**Latest utility added here!** - 'bskyutils'!
+**Latest utility added here!** - 'bskyutils' & 'Bluesky Unfollowers Tracker'!
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
@@ -26,6 +26,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages.(not for self hosting yet!).
 - [Bluniversal Comments](https://github.com/joneslloyd/bluniversal-comments) <<{Github repo} | [Bluesky](https://bsky.app/profile/bluniversalcomm.bsky.social) – Browser extension to start a conversation next to any web page using your Bluesky account. Extensions due an update to fix a bug that prevent creation of new comments. Manually Instal from github! See it in action on this page! [Bluesky account](https://bsky.app/profile/bluniversal.bsky.social) where comments are posted to from extension.
 - [bskyutils](https://bskyutils.com/) | [Bluesky](https://bsky.app/profile/did:plc:mmjettstvsmnwsa5rmuj4sqp) by [Hoa Nguyen | Indie Maker](https://bsky.app/profile/did:plc:3qkkwy3n623wzlrvduudhp5h) - Suite of tools: - Analytics Tool, Follow Checker, Starter Pack Finder and Audience Analytics.
+- [Bluesky Unfollowers Tracker ~ Android app](https://play.google.com/store/apps/details?id=com.bluesky.followers.analyzer) by [Pavlos](https://bsky.app/profile/did:plc:lrjff6lfoc62cmt64ocaa34r) | [Bluesky](https://bsky.app/profile/did:plc:qic76y2rz6hog4ashqm5kvwp) - Easily track who’s following you, who has unfollowed you, and gain valuable insights into your Bluesky network. Android App & iOS due soon!
 
 
 ## Other utilities and sites to bookmark!
