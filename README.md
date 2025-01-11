@@ -5,6 +5,8 @@
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
 
+A guide I came across recently (perplexity.ai seach) [Debbie's Unofficial Guide To Bluesky](https://publish.obsidian.md/debbieohi/bluesky) by [Debbie Ridpath Ohi](https://publish.obsidian.md/debbieohi/contact) << See contact info on site. No I don't intend to do notes on it. An excellent guide! 
+
 **Note:** - I have started to use [Bluesky Permalinks](https://blue.mackuba.eu/skythread/?hash=permalinkblueskyposts) {#permalinkdidprofile & #permalinkblueskyposts)
 on this list, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
 
