@@ -34,6 +34,8 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Bluesky Unfollowers Tracker ~ Android app](https://play.google.com/store/apps/details?id=com.bluesky.followers.analyzer) by [Pavlos](https://bsky.app/profile/did:plc:lrjff6lfoc62cmt64ocaa34r) | [Bluesky](https://bsky.app/profile/did:plc:qic76y2rz6hog4ashqm5kvwp) - Easily track who’s following you, who has unfollowed you, and gain valuable insights into your Bluesky network. Android App & iOS due soon!
 - [SkeetBeaver](https://skeetbeaver.pages.dev/) by [Casey Ho](https://bsky.app/profile/did:plc:d7nr65djxrudtdg3tslzfiyr) - This website facilitates analysis of publicly available information retrived from the Bluesky API. Handy for comparing differences in lists generated with Sky Follower Bridge!
 
+| Developer | Tool | Support |
+|-----------|------|---------|
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) |
 
 ^^ Sorry for diference in formating for the above, created for an edit in another repo, but someone already had made that suggestion!
