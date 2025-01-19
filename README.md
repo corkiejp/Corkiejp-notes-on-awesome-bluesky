@@ -36,7 +36,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
-| [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) | a TweetDeck-like client for Bluesky |
+| [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) | a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets! |
 
 ^^ Sorry for diference in formating for the above, created for an edit in another repo, but someone already had made that suggestion!
 
