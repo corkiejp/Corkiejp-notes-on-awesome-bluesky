@@ -42,7 +42,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 ^^ Sorry for diference in formating for the above, created for an edit in another repo, but someone already had made that suggestion!
 
-See [Support Devs above](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/README.md#support-devs)
+See [Support Devs above](#support-devs)
 
 
 ## Other utilities and sites to bookmark!
