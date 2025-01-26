@@ -1,4 +1,4 @@
-##Listifications Bluesky Chat Tip##
+## Listifications Bluesky Chat Tip
 
 ![Bluesky CHAT settings!](/assets/blueskychatsettings.jpg)
 
