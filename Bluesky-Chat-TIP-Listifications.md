@@ -7,6 +7,8 @@ You can turn the feature off again, so not to be swamped by spam DM's!
 
 ![Bluesky CHAT settings!](/assets/blueskychatsettings.jpg)
 
+# From Listifications
+
 ![ListificationsTIP!](/assets/ListificationsTIP.PNG)
 
 ^^ [Bluesky Post of the above](https://bsky.app/profile/did:plc:yatb2t26fw7u3c7qcacq7rje/post/3lglzh2f23s2w)
