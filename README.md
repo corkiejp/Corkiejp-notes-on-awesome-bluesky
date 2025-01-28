@@ -14,6 +14,11 @@ on this list, if you come across a broken link please let me known by tagging [@
 
 As excellent as 'Fishttp' list is I found it lacking in contacts for the developers, so you can contact them with bug reports, improvement requests or other reasons? I found myself searching for that information when testing out utilities. So hoping these notes will benifit others?
 
+
+## EU List and how I generated them:-
+
+[See this additional page](how_I_create_my_eu_lists.md)
+
 ## Important!
 
 [Correct method to link to your profile on bluesky!](Important-correct_method_to_link_your_profile.md)
