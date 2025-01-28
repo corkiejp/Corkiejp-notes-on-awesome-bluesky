@@ -7,7 +7,7 @@ The list will not be categorised but additions made as I research the utilities.
 
 A guide I came across recently (perplexity.ai seach) [Debbie's Unofficial Guide To Bluesky](https://publish.obsidian.md/debbieohi/bluesky) by [Debbie Ridpath Ohi](https://publish.obsidian.md/debbieohi/contact) << See contact info on site. No I don't intend to do notes on it. An excellent guide! 
 
-For people recently joining Bluesky [see this tips page](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/Tips-Moving-Xitter-to-Bluesky.md).
+For people recently joining Bluesky [see this tips page](Tips-Moving-Xitter-to-Bluesky.md).
 
 **Note:** - I have started to use [Bluesky Permalinks](https://blue.mackuba.eu/skythread/?hash=permalinkblueskyposts) {#permalinkdidprofile & #permalinkblueskyposts)
 on this list, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
@@ -16,7 +16,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 ## Important!
 
-[Correct method to link to your profile on bluesky!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/Important-correct_method_to_link_your_profile.md)
+[Correct method to link to your profile on bluesky!](Important-correct_method_to_link_your_profile.md)
 
 ## Support Dev's 
 [AT-Benefactor-links](https://github.com/PSingletary/AT-Benefactor-links?tab=readme-ov-file#at-benefactor-links) - New repo with links to means and ways to support dev's by buying them a coffee or more. ~ With 'fishttp' list not update in a month. This maybe a better list to check for new utilities?
@@ -69,5 +69,5 @@ The below may or may not feature in awesome list!
 - BlueSky: -
   - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug
   - [corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) Created this account on 01/12/2024
-* See additional socials proving I have been using the 'corkiejp' handle for years. << [Click here!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/corkiejp-socials.md)
+* See additional socials proving I have been using the 'corkiejp' handle for years. << [Click here!](corkiejp-socials.md)
   
