@@ -29,4 +29,4 @@ Found this below app been promoted on reddit yesterday and it sparked my curiost
 
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
-| [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
+| [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Annoucement Bluesky post](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph/post/3lgvw7iasjs2g) |
