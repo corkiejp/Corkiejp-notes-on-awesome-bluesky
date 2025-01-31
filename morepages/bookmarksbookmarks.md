@@ -15,3 +15,13 @@ First method list here works a cross device/browser, but some people are relucta
 ## Desktop Browser
 
 Your desktop browser bookmarks is a method that doesn't get mentioned very often? As each post can be opened as a page in a new tab and bookmarked. If you have bookmark sync enabled in your browser, you may also have cross device usuage, but would require using a mobile browser instead of the app.
+
+## Desktop Utilities
+
+A good few desktop utilities have a bookmark feature as part of them, lising two I'm aware of below, and may add more to this list if and when I come accross them. Some people will have their favourite utilities to use as the default method of access.
+
+  - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
+  - [deck.blue](https://deck.blue/) ~ a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets!
+
+## Android Apps
+
