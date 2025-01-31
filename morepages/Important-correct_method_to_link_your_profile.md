@@ -58,3 +58,6 @@ Just change the account after 'handle='!
 JYC of 'Sky zoo' has added 🐢 ~ Turtle module which creates **permalinks** for posts. See [Bluesky Thread](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3lddmk6kefc26)
 - 📌 On any post in bsky, prefix the url with 'skyzoo.blue/' >> 🐢 ~ Turtle module << #permalinkblueskyposts
 
+
+<<< Back to [Notes on Awesome](/README.md)
+
