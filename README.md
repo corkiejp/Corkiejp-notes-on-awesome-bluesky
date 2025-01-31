@@ -43,7 +43,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) | a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets! |
-| [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA |
+| [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
 
 ^^ Sorry for diference in formating for the above, created for an edit in another repo, but someone already had made that suggestion!
 
