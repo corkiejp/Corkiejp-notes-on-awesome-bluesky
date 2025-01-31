@@ -21,7 +21,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 ## Important!
 
-[Correct method to link to your profile on bluesky!](Important-correct_method_to_link_your_profile.md)
+[Correct method to link to your profile on bluesky!](/morepages/Important-correct_method_to_link_your_profile.md)
 
 ## Support Dev's 
 [AT-Benefactor-links](https://github.com/PSingletary/AT-Benefactor-links?tab=readme-ov-file#at-benefactor-links) - New repo with links to means and ways to support dev's by buying them a coffee or more. ~ With 'fishttp' list not update in a month. This maybe a better list to check for new utilities?
