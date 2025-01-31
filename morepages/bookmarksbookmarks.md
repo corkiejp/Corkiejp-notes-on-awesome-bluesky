@@ -27,6 +27,6 @@ A good few desktop utilities have a bookmark feature as part of them, lising two
 
 Found this below app been promoted on reddit yesterday and it sparked my curiosty, normaly I give apps with subscription built in a pass, but as this is a popular request feature, gave it another look and others might find it uesful?. Also it sparked the idea to create this page.
 
-- | Developer | Tool | Support | Features/Description |
+| Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
