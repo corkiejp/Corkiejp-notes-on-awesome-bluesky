@@ -1,4 +1,4 @@
-# 📌 Bookmarks! Bookmarks! Bookmarks!
+# 📌 Bluesky Bookmarks! Bookmarks!
 
 Must be the most often requested feature to be added to Bluesky?
 
