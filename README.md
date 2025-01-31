@@ -7,7 +7,7 @@ The list will not be categorised but additions made as I research the utilities.
 
 A guide I came across recently (perplexity.ai seach) [Debbie's Unofficial Guide To Bluesky](https://publish.obsidian.md/debbieohi/bluesky) by [Debbie Ridpath Ohi](https://publish.obsidian.md/debbieohi/contact) << See contact info on site. No I don't intend to do notes on it. An excellent guide! 
 
-For people recently joining Bluesky [see this tips page](Tips-Moving-Xitter-to-Bluesky.md).
+For people recently joining Bluesky [see this tips page](/morepages/Tips-Moving-Xitter-to-Bluesky.md).
 
 **Note:** - I have started to use [Bluesky Permalinks](https://blue.mackuba.eu/skythread/?hash=permalinkblueskyposts) {#permalinkdidprofile & #permalinkblueskyposts)
 on this list, if you come across a broken link please let me known by tagging [@corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) on bluesky or through other socials!
