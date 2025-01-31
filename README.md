@@ -45,7 +45,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) | a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets! |
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
 
-^^ Sorry for diference in formating for the above, created for an edit in another repo, but someone already had made that suggestion!
+^^ Sorry for diference in formating for the above, created for an edit in another repo.
 
 See [Support Devs above](#support-devs)
 
@@ -62,7 +62,7 @@ The below may or may not feature in awesome list!
 ## Accounts to follow that add features to BlueSky
 - [Listifications](https://bsky.app/profile/listifications.app) by [Dominik Picheta](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii):- Follow to receive notifications whenever you're added to a starter pack, block list, feed or someone blocks you. **Note: - Notifications by DM's** , so you at least need to allow them to 'users I follow'!
  **But you don't need to leave them on!** Excellent tip from Listifications, [See here for instructions](/morepages/Bluesky-Chat-TIP-Listifications.md)
-- ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser!
+- ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md)
 - [Likes/Reposts](https://goodfeeds.co/likes-media-reposts) by [Jerry Chen](https://bsky.app/profile/jcsalterego.bsky.social) - A feed of your liked/reposted content. Surprised that these features are not default in the app itself. Notice the bareness of a new account I created recenty!
 
 ## Github Links: - 
