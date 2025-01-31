@@ -26,6 +26,9 @@ Vist [Sky Zoo](https://skyzoo.blue/stats) when you have a 'Valid Handle'!
 - See this [Bluesky video](https://bsky.app/profile/did:plc:dacfxuonkf2qtqft22sc23tu/post/3ldenozfbt225) on the process
 
 
+<<< Back to [Notes on Awesome](/README.md)
+
+
 ## Follow instruction below to get your account 'did' String
 
 **Found**: - settings – account – handle – own domain – no dns panel – click copy code.
