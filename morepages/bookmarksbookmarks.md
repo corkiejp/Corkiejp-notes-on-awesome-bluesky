@@ -14,7 +14,7 @@ First method list here works a cross device/browser, but some people are relucta
 
 ## Desktop Browser
 
-Your desktop browser bookmarks is a method that doesn't get mentioned very often? As each post can be opened as a page in a new tab and bookmarked. If you have bookmark sync enabled in your browser, you may also have cross device usuage, but would require using a mobile browser instead of the app.
+Your desktop browser bookmarks is a method that doesn't get mentioned very often? As each post can be opened as a page in a new tab and bookmarked. If you have bookmark sync enabled in your browser, you may also have cross device usage, but would require using a mobile browser instead of the app.
 
 ## Desktop Utilities
 
