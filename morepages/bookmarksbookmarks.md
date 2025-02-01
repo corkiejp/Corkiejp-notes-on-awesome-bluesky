@@ -44,7 +44,7 @@ A good few desktop utilities have a bookmark feature as part of them, listing tw
 
 ## Android Apps
 
-Found this below app been promoted on reddit yesterday (30/1/2025) and it sparked my curiosty, normaly I give apps with subscription built in a pass, but as this is a popular request feature, gave it another look and others might find it uesful?. Also it sparked the idea to create this page.
+Found this below app been promoted on reddit yesterday (30/1/2025) and it sparked my curiosty, normaly I give apps with subscription built in a pass, but as this is a popular requested feature, gave it another look and others might find it uesful?. Also it sparked the idea to create this page.
 
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
