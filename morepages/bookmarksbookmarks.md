@@ -18,11 +18,10 @@ First method list here works a cross device/browser, but some people are relucta
 
 By ‪@[bookmark.cool‬](https://bsky.app/profile/did:plc:i66pmozpdrjpmzkmbhlw5qdx)
 
-Bookmarks without 📌
-
-To bookmark a post, click … below the post & send it via direct message to @bookmark.cool (Private Bookmarks)
-The post will appear in the feed a minute later. Nobody else can see your bookmarks
-To remove a bookmark, send it via DM to @bookmark.cool with `/delete` in the DM
+  - Bookmarks without 📌
+    - To bookmark a post, click … below the post & send it via direct message to @bookmark.cool (Private Bookmarks)
+    - The post will appear in the feed a minute later. Nobody else can see your bookmarks
+    - To remove a bookmark, send it via DM to @bookmark.cool with `/delete` in the DM
 
 
 
