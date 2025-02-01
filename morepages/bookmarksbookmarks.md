@@ -8,11 +8,23 @@ There are third party methods to do so, but must of them are device/browser spec
 
 First method list here works a cross device/browser, but some people are reluctant to use it, publicly displayed.
 
-## 'PUSHPIN'
+## 'PUSHPIN' 📌
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! **Don't just drop a pin**, add some keywords to be able to search for it later.
 
 ![Push Pin make a note](/assets/pushpinnote.jpg)
+
+## Private Bookmarks 🔖
+
+By ‪@[bookmark.cool‬](https://bsky.app/profile/did:plc:i66pmozpdrjpmzkmbhlw5qdx)
+
+Bookmarks without 📌
+
+To bookmark a post, click … below the post & send it via direct message to @bookmark.cool (Private Bookmarks)
+The post will appear in the feed a minute later. Nobody else can see your bookmarks
+To remove a bookmark, send it via DM to @bookmark.cool with `/delete` in the DM
+
+
 
 ## Desktop Browser
 
