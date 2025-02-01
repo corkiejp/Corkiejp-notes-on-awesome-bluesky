@@ -12,6 +12,8 @@ First method list here works a cross device/browser, but some people are relucta
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! **Don't just drop a pin**, add some keywords to be able to search for it later.
 
+![Push Pin make a note](/assets/pushpinnote.jpg)
+
 ## Desktop Browser
 
 Your desktop browser bookmarks is a method that doesn't get mentioned very often? As each post can be opened as a page in a new tab and bookmarked. If you have bookmark sync enabled in your browser, you may also have cross device usage, but would require using a mobile browser instead of the app.
