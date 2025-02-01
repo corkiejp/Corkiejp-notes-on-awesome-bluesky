@@ -25,7 +25,7 @@ By ‪@[bookmark.cool‬](https://bsky.app/profile/did:plc:i66pmozpdrjpmzkmbhlw5
    
 Came accross this today when searching 'bookmarks' to see if I could post about this page to let people known.
 
-It should alleviate people's concerns about not publicly sharing things with 'PushPin' method. Although it has limitations to be account specific and not searchable. If you have more than one account been able to search for '📌 <keywords>' makes it possible to search accross accounts. See screen shot above.
+It should alleviate people's concerns about not publicly sharing things with 'PushPin' method. Although it has limitations to be account specific and not searchable. If you have more than one account been able to search for '📌 keywords' makes it possible to search accross accounts. See screen shot above.
 
 
 
