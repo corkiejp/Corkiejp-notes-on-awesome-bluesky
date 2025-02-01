@@ -16,14 +16,14 @@ First method list here works a cross device/browser, but some people are relucta
 
 ## Private Bookmarks 🔖
 
-By ‪@[bookmark.cool‬](https://bsky.app/profile/did:plc:i66pmozpdrjpmzkmbhlw5qdx)
+[bookmark.cool‬](https://bsky.app/profile/did:plc:i66pmozpdrjpmzkmbhlw5qdx) by [larry.earth](https://bsky.app/profile/did:plc:ugdiki2sjvpxvhzsvuvaygaw)
 
   - Bookmarks without 📌
     - To bookmark a post, click … below the post & send it via direct message to @bookmark.cool (Private Bookmarks)
     - The post will appear in the feed a minute later. Nobody else can see your bookmarks
     - To remove a bookmark, send it via DM to @bookmark.cool with `/delete` in the DM
    
-Came accross this today when searching 'bookmarks' to see if I could post about this page to let people known.
+Came accross this today (1/02) when searching 'bookmarks' to see if I could post about this page to let people known.
 
 It should alleviate people's concerns about not publicly sharing things with 'PushPin' method. Although it has limitations to be account specific and not searchable. If you have more than one account been able to search for '📌 keywords' makes it possible to search accross accounts. See screen shot above.
 
