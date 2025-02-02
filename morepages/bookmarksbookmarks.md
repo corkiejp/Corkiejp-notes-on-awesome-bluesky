@@ -38,7 +38,7 @@ Your desktop browser bookmarks is a method that doesn't get mentioned very often
 A good few desktop utilities have a bookmark feature as part of them, listing few I'm aware of below, and may add more to this list if and when I come accross them. Some people will have their favourite utilities to use as the default method of access.
 
   - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
-  - [deck.blue](https://deck.blue/) ~ a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets!
+  - [deck.blue](https://deck.blue/) by [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) ~ a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets!
   - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages, which you can bookmark on site!
   - [kyst.app](https://kyst.app/) by [u/NemSurnem](https://www.reddit.com/r/BlueskySocial/comments/1ic0int/built_a_bookmarks_manager_for_bluesky/) ~ Browser extension, but you can also bookmark by DM.
 
@@ -50,6 +50,11 @@ Found this below app been promoted on reddit yesterday (30/1/2025) and it sparke
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Annoucement Bluesky post](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph/post/3lgvw7iasjs2g) |
+
+## Apple iOS and iPadOS
+
+Got a suggestion for an app suitable for them in a [reply to reddit post](https://www.reddit.com/r/BlueskySocial/comments/1ifhnin/bluesky_bookmarks_my_known_methods_to_do_so/) I made about this page, \
+have to research it more and will probably share here soon.
 
 ## More + Additions?
 
