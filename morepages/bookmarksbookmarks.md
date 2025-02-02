@@ -53,10 +53,12 @@ Found this below app been promoted on reddit yesterday (30/1/2025) and it sparke
 
 ## Apple iOS and iPadOS
 
-Got a suggestion for an app suitable for them in a [reply to reddit post](https://www.reddit.com/r/BlueskySocial/comments/1ifhnin/bluesky_bookmarks_my_known_methods_to_do_so/) I made about this page, \
-**I haven't research it** because I am an **android**/chromebook/**windows**/linux (last in the distant past) guy and don't have iOS devices, so can't test the apps.
+Got a suggestion for 'Skymarks' in a [reply to reddit post](https://www.reddit.com/r/BlueskySocial/comments/1ifhnin/bluesky_bookmarks_my_known_methods_to_do_so/) I made about this page, \
+**I haven't personally tested iOS apps** because I am an **android**/chromebook/**windows**/linux (last in the distant past) guy and don't have iOS devices, so can't test the apps.
 
-  - [Skymarks for iOS and iPadOS](https://apps.apple.com/us/app/skymarks/id6739005862) by [Jay Wardell](https://bsky.app/profile/did:plc:fjnmpe2mwk7k7iwunize7zjk) ~ SkyMarks is the Bluesky bookmark app for your Mac, iPhone and iPad. Synchs its bookmarks across all your devices that use the same Apple ID
+| Developer | Tool | Support | Features/Description |
+|-----------|------|---------|-------------------|
+| [Jay Wardell](https://bsky.app/profile/did:plc:fjnmpe2mwk7k7iwunize7zjk) | [Skymarks for iOS and iPadOS](https://apps.apple.com/us/app/skymarks/id6739005862) | N/A ~ unknown | SkyMarks is the Bluesky bookmark app for your Mac, iPhone and iPad. Synchs its bookmarks across all your devices that use the same Apple ID |
 
 ## More + Additions?
 
