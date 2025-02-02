@@ -40,7 +40,7 @@ A good few desktop utilities have a bookmark feature as part of them, listing fe
   - [Bluesky+](https://chromewebstore.google.com/detail/bluesky+/flbheallcbkoaffegmjenkpojhocmdla) by [Franck ~ Indie hacker](https://bsky.app/profile/franck.blue) - Powerfull Feature rich chrome extension:- [See pinned bluesky post listing them!](https://bsky.app/profile/did:plc:h5vg54cmlkpwnz2p3symlm2t/post/3ldj7wsivd22u)
   - [deck.blue](https://deck.blue/) ~ a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets!
   - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages, which you can bookmark on site!
-  - [kyst.app](https://kyst.app/) by [u/NemSurnem](https://www.reddit.com/r/BlueskySocial/comments/1ic0int/comment/mag9nn9/) ~ Browser extension, but you can also bookmark by DM.
+  - [kyst.app](https://kyst.app/) by [u/NemSurnem](https://www.reddit.com/r/BlueskySocial/comments/1ic0int/built_a_bookmarks_manager_for_bluesky/) ~ Browser extension, but you can also bookmark by DM.
 
 
 ## Android Apps
