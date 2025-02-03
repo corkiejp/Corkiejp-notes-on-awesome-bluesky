@@ -21,3 +21,5 @@ If your looking for a page to test it on: -
 I have it enabled and seeing allot of blank spaces on that page!
 
 Posted the above on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1igxjbw/block_x_embeds_on_forums_and_websites_using/) over 2 hours ago and received 67 upvotes, with 3.3K Views.
+
+<<< Back to [Notes on Awesome](/README.md)
