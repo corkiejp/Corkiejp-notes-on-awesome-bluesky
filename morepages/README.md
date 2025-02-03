@@ -4,6 +4,8 @@ A List of linked pages on 'Notes On Awesome'!
   - [Correct method to link to your profile on bluesky!](/morepages/Important-correct_method_to_link_your_profile.md)
   - Excellent tip from Listifications chat settings [See here for instructions](/morepages/Bluesky-Chat-TIP-Listifications.md)
   - 📌 Bluesky Bookmarks! Bookmarks! [link](bookmarksbookmarks.md)
+  - Block 'X' Embeds on forums and websites. [Link](/morepages/BlockXembeds.md)
+
 
 
 <<< Back to [Notes on Awesome](/README.md)
