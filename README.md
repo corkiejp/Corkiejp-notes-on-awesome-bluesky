@@ -22,7 +22,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 ## Important!
 
 - [Correct method to link to your profile on bluesky!](/morepages/Important-correct_method_to_link_your_profile.md)
-- [Block 'X' Embeds on forums and websites ~ Using 'PrivateDNS'.](/morepages/BlockXembeds.md)
+- [Block 'X' Embeds on forums and websites ~ Using 'Private DNS'](/morepages/BlockXembeds.md)
 
 
 ## Support Dev's 
