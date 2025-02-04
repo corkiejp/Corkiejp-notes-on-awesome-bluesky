@@ -35,7 +35,7 @@ As [Likes](https://bsky.app/profile/did:plc:vc7f4oafdgxsihk4cry2xpze/feed/likes)
 
 Found [Bookmarked Posts](https://bsky.app/profile/did:plc:w6yx4bltuzdmiolooi4kd6zt/feed/bookmarks), going by the description and guessing the steps involved to set it up, I was relucant to even test it, let alone feature it here. As it uses the reporting feature to create bookmarks in a feed, it also requires a good number of clicks to do so! **Note** Can't report your own posts, no bookmark for them unless you use an alt account to do so. 👎 Because better versions available on this page.
 
-There is other Bookmark that utilise DM/Chat listed on [goodfeeds](https://goodfeeds.co/search?q=bookmarks), let me know if you want them featured on this page?
+There is other Bookmarks that utilise DM/Chat listed on [goodfeeds](https://goodfeeds.co/search?q=bookmarks), let me know if you want them featured on this page?
 
 
 
