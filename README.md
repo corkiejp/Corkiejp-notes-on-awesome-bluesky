@@ -46,8 +46,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 |-----------|------|---------|-------------------|
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) , [Bluesky acc:](https://bsky.app/profile/did:plc:w342borqxtyo2pul67ec2pwt) | [deck.blue](https://deck.blue/) | [Ko-fi](https://ko-fi.com/deck_blue), [Patreon](https://www.patreon.com/deckblue) | a TweetDeck-like client for Bluesky, can use 'mardown' to create list of links in skeets! |
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
-| [Alex](https://bsky.app/profile/did:plc:er6erflnnxcozlbqmrpflt6h), [github](https://github.com/vordgi)| [Atsky.app](https://atsky.app/) [Bluesky](https://bsky.app/profile/did:plc:f4r66r4tlhld3g3puannbxsq) | N/A Unknown | advanced Bluesky client with charts, bookmarks, detailed lists view, additional tools and much more. Powered by @vordgi.com.   \
-See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
+| [Alex](https://bsky.app/profile/did:plc:er6erflnnxcozlbqmrpflt6h), [github](https://github.com/vordgi)| [Atsky.app](https://atsky.app/) [Bluesky](https://bsky.app/profile/did:plc:f4r66r4tlhld3g3puannbxsq) | N/A Unknown | advanced Bluesky client with charts, bookmarks, detailed lists view, additional tools and much more. Powered by @vordgi.com. |
 
 ^^ Sorry for diference in formating for the above, created for an edit in another repo.
 
