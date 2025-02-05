@@ -44,3 +44,5 @@ Regards
 corkiejp ~ John
 
 ^^ Click on one of the lists to get to my account!
+
+<<< Back to [Notes on Awesome](/README.md)
