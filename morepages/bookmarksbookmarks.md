@@ -52,6 +52,8 @@ A good few desktop utilities have a bookmark feature as part of them, listing fe
   - [Skywriter.blue](https://skywriter.blue/) by [David](https://bsky.app/profile/did:plc:rgxmjcboeeerlktnw3ff3okh) - Convert Bluesky threads into webpages, which you can bookmark on site!
   - [kyst.app](https://kyst.app/) by [Haris Mohammad](https://bsky.app/profile/did:plc:vk4brqfoersrab5e5guerzcs) or [u/NemSurnem](https://www.reddit.com/r/BlueskySocial/comments/1ic0int/built_a_bookmarks_manager_for_bluesky/) ~ Browser extension, but you can also bookmark by DM. 
     - LifeHacker articale by [Pranay Parab](https://bsky.app/profile/did:plc:2gdq4t2lstp6ocqxw5ek7ohr) ~ [This Free Browser Extension Lets You Bookmark Bluesky Posts](https://lifehacker.com/tech/this-free-browser-extension-lets-you-bookmark-bluesky-posts)
+  - [Atsky.app](https://atsky.app/) by [Alex](https://bsky.app/profile/did:plc:er6erflnnxcozlbqmrpflt6h), [github](https://github.com/vordgi) ~ advanced Bluesky client with charts, bookmarks, detailed lists view, additional tools and much more. Powered by @vordgi.com
+
 
 
 ## Android Apps
