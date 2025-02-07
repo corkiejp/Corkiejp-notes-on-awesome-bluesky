@@ -2,13 +2,19 @@
 
 These:- 
 
-[MEPs 2024-2029](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lgh4kwdwey2e)
+Corkiejp's EU Lists!
+
+[MEPs 2024-2029](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lhkb54yomy2s)
 
 [MEP's Verified](https://bsky.app/profile/did:plc:rs4wjnyxmhj3udokowkymd5e/lists/3l2lyvl3p2j2x) by [Michiel van Hulten](https://bsky.app/profile/did:plc:rs4wjnyxmhj3udokowkymd5e) and not me!
 
 [EU Commissioners](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lfimpbh5642k)
 
 [IMCO lists 2024-2029](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lf4imtzudi23)
+
+[EU committee DS](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lgyrhcr4uf2v)
+
+Notes on how I create the above lists: - [Github Page](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/how_I_create_my_eu_lists.md) or [Bluesky Thread](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b/post/3lgre4bgla52d)
 
 [EU Imposters](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lgqeomhgak27) ~ Mainly for my own reference.
 
