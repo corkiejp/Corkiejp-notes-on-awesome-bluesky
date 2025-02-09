@@ -77,6 +77,17 @@ Got a suggestion for 'Skymarks' in a [reply to reddit post](https://www.reddit.c
 |-----------|------|---------|-------------------|
 | [Jay Wardell](https://bsky.app/profile/did:plc:fjnmpe2mwk7k7iwunize7zjk) | [Skymarks for iOS and iPadOS](https://apps.apple.com/us/app/skymarks/id6739005862) | N/A ~ unknown | SkyMarks is the Bluesky bookmark app for your Mac, iPhone and iPad. Synchs its bookmarks across all your devices that use the same Apple ID |
 
+# BlueNotify
+## Post Notifications for Bluesky
+
+Another often requested feature for Bluesky. is to be able to get notification of newest post fron you favourite accounts. 
+
+Let me bring your attention to **BlueNotify: -** [Android](https://play.google.com/store/apps/details?id=com.austinwitherspoon.bluenotify) | [iOS](https://apps.apple.com/gb/app/bluenotify/id6738239349)
+By [Austin Witherspoon](https://bsky.app/profile/did:plc:jpkjnmydclkafjyicv3s6hcx).
+
+Found out about this app from this youtube [How to Use Bluesky! ~ From Beginner to Pro!](https://www.youtube.com/watch?v=Jr58OOIYjN4) which was shared on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1ik9rhs/ive_made_a_tutorial_on_using_bluesky/).
+
+
 ## More + Additions?
 
 If you aware of other methods to bookmark, or suggestions to be added to the list please tag me (@corkiejp.github.io) in a Bluesky post.
