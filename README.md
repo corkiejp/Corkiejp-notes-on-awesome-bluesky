@@ -23,7 +23,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 
 - [Correct method to link to your profile on bluesky!](/morepages/Important-correct_method_to_link_your_profile.md)
 - [Block 'X' Embeds on forums and websites ~ Using 'Private DNS'](/morepages/BlockXembeds.md)
-- {Privacy of your data on Bluesky/'AT Protocol'](https://mackuba.eu/2024/02/21/bluesky-guide/#privacy)
+- {Privacy of your data on Bluesky or 'AT Protocol'](https://mackuba.eu/2024/02/21/bluesky-guide/#privacy)
 
 
 ## Support Dev's 
