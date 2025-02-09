@@ -1,5 +1,8 @@
 # 📌 Bluesky Bookmarks! Bookmarks!
 
+## Anouncement
+Do you want to get notification when your favourite accounts post? [Click here to see addition at bottom of page](#bluenotify).
+
 Must be the most often requested feature to be added to Bluesky?
 
 As platform doesn't have this feature built in!
