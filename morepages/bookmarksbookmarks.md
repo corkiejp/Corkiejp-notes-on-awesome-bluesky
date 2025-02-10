@@ -81,6 +81,7 @@ Got a suggestion for 'Skymarks' in a [reply to reddit post](https://www.reddit.c
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
 | [Jay Wardell](https://bsky.app/profile/did:plc:fjnmpe2mwk7k7iwunize7zjk) | [Skymarks for iOS and iPadOS](https://apps.apple.com/us/app/skymarks/id6739005862) | N/A ~ unknown | SkyMarks is the Bluesky bookmark app for your Mac, iPhone and iPad. Synchs its bookmarks across all your devices that use the same Apple ID |
+|[Sebastian Vogelsang](did:plc:ituoear7k6qx3smjfoxhufm4) | **Skeets for Bluesky**:- [Bluesky](https://bsky.app/profile/did:plc:mdpndtkinvfaxtf64ubgftzs) [Website](https://www.skeetsapp.com/), [iOS App Store](https://apps.apple.com/us/app/skeets-for-bluesky/id6466340923) | N/A unknown | Skeets is a native Bluesky app that supports both iOS and iPad OS. |
 
 # BlueNotify
 ## Post Notifications for Bluesky
