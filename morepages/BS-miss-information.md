@@ -25,7 +25,7 @@ I will finish this thread with a link to a thread of discussions on topics raise
 
 **Blocks and Logged-out visibilty** will not protect your data.
 
-![Logged-out Visibilty!](/assets/BSloggedout.PNG)
+![Logged-out Visibilty!](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/raw/main/assets/BSloggedout.PNG)
 
 
 <<< Back to [Notes on Awesome](/README.md)
