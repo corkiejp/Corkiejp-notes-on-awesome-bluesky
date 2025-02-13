@@ -61,9 +61,6 @@ A good few desktop utilities have a bookmark feature as part of them, listing fe
   - **Bluesky Bookmarks** | [Chrome](https://chromewebstore.google.com/detail/bluesky-bookmarks/fabgnlmmiejaialmpojgmljacihchlga?hl=en) | [Firefox](https://addons.mozilla.org/addon/bluesky-bookmarks/) by [Haddle](https://bsky.app/profile/did:plc:32hp2dwwhx372kqtfmeyie6u) - Browser extension not tested by me but recommended by [Rebecca D. Burdine, PhD](https://bsky.app/profile/did:plc:f4rsxfk3b5rv43xlxnvg7zw3/post/3lhjqbfytjk2u)
 
 
-Bluesky Bookmarks
-
-
 
 ## Android Apps
 
