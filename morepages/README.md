@@ -5,6 +5,7 @@ A List of linked pages on 'Notes On Awesome'!
   - Excellent tip from Listifications chat settings [See here for instructions](/morepages/Bluesky-Chat-TIP-Listifications.md)
   - 📌 Bluesky Bookmarks! Bookmarks! [Link](bookmarksbookmarks.md)
   - Block 'X' Embeds on forums and websites. [Link](/morepages/BlockXembeds.md)
+  - [miss-information and bad assumptions made about 'Threadreaders'/'unroll bots'](/morepages/BS-miss-information.md)
 
 
 
