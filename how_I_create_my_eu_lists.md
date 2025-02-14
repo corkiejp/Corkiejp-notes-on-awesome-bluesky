@@ -4,7 +4,7 @@ These:-
 
 Corkiejp's EU Lists!
 
-[MEPs 2024-2029](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lhkb54yomy2s)
+[MEPs 2024-2029](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3li64ziv5342h)
 
 [MEP's Verified](https://bsky.app/profile/did:plc:rs4wjnyxmhj3udokowkymd5e/lists/3l2lyvl3p2j2x) by [Michiel van Hulten](https://bsky.app/profile/did:plc:rs4wjnyxmhj3udokowkymd5e) and not me!
 
