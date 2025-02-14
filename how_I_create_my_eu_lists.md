@@ -14,6 +14,8 @@ Corkiejp's EU Lists!
 
 [EU committee DS](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lgyrhcr4uf2v)
 
+[EUPress - 417 accounts](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3li6askepdb2h)
+
 [EU Imposters](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/lists/3lgqeomhgak27) ~ Mainly for my own reference.
 
 
