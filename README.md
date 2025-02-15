@@ -44,6 +44,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [bskyutils](https://bskyutils.com/) | [Bluesky](https://bsky.app/profile/did:plc:mmjettstvsmnwsa5rmuj4sqp) by [Hoa Nguyen | Indie Maker](https://bsky.app/profile/did:plc:3qkkwy3n623wzlrvduudhp5h) - Suite of tools: - Analytics Tool, Follow Checker, Starter Pack Finder and Audience Analytics.
 - [Bluesky Unfollowers Tracker ~ Android app](https://play.google.com/store/apps/details?id=com.bluesky.followers.analyzer) by [Pavlos](https://bsky.app/profile/did:plc:lrjff6lfoc62cmt64ocaa34r) | [Bluesky](https://bsky.app/profile/did:plc:qic76y2rz6hog4ashqm5kvwp) - Easily track who’s following you, who has unfollowed you, and gain valuable insights into your Bluesky network. Android App & iOS due soon!
 - [SkeetBeaver](https://skeetbeaver.pages.dev/) by [Casey Ho](https://bsky.app/profile/did:plc:d7nr65djxrudtdg3tslzfiyr) - This website facilitates analysis of publicly available information retrived from the Bluesky API. Handy for comparing differences in lists generated with Sky Follower Bridge!
+- [TheBlue.social](https://theblue.social) by [Hwee-Boon Yar](https://github.com/hboon) - analytics, post scheduling, search starter packs, follower management
 
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
