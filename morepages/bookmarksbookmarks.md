@@ -84,7 +84,7 @@ Got a suggestion for 'Skymarks' in a [reply to reddit post](https://www.reddit.c
 |-----------|------|---------|-------------------|
 | [Jay Wardell](https://bsky.app/profile/did:plc:fjnmpe2mwk7k7iwunize7zjk) | [Skymarks for iOS and iPadOS](https://apps.apple.com/us/app/skymarks/id6739005862) | N/A ~ unknown | SkyMarks is the Bluesky bookmark app for your Mac, iPhone and iPad. Synchs its bookmarks across all your devices that use the same Apple ID |
 |[Sebastian Vogelsang](https://bsky.app/profile/did:plc:ituoear7k6qx3smjfoxhufm4) | **Skeets for Bluesky**:- [Bluesky](https://bsky.app/profile/did:plc:mdpndtkinvfaxtf64ubgftzs), [Website](https://www.skeetsapp.com/), [iOS App Store](https://apps.apple.com/us/app/skeets-for-bluesky/id6466340923) | N/A or unknown | Skeets is a native Bluesky app that supports both iOS and iPad OS.Has bookmarks but not sure if paid feature? Found out on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1ilsf2o/a_lot_of_the_features_yall_are_missing_from/) |
-|[]()|[PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) | N/A or Unknown | iOS app to bookmark posts not tested found on awesome list. |
+|[Shivam Rishi](https://bsky.app/profile/did:plc:ln7vrncvvmehvony26h7os3t)|[PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) | N/A or Unknown | iOS app to bookmark posts not tested found on awesome list. |
 
 # BlueNotify
 ## Post Notifications for Bluesky
