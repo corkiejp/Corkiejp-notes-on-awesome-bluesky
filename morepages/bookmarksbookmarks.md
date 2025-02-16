@@ -11,7 +11,7 @@ As platform doesn't have this feature built in!
 
 There are third party methods to do so, but must of them are device/browser specific.
 
-First method list here works across device/browser, but some people are reluctant to use it, publicly displayed.
+['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) list here works across device/browser, but some people are reluctant to use it, publicly displayed.
 
 ## Super Private Bookmarks
 ### By DM/Chat to an alt account. 
