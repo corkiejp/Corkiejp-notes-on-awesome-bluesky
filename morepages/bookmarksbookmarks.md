@@ -61,7 +61,7 @@ There is other Bookmarks that utilise DM/Chat listed on [goodfeeds](https://good
 | Developer | Tool | Support | Features/Description |
 |-----------|------|---------|-------------------|
 | [Matt](https://bsky.app/profile/did:plc:2h2vdoobywse4d2r5w6or2zv) | [skymark me](https://bsky.app/profile/did:plc:sy5rzmzyu6rvsxnkgis5v4pq) | DM for support: @mattlynch.dev | DM posts to @skymark.me to save them as bookmarks, add text to create collections. Access your bookmarks [via the feed](https://bsky.app/profile/did:plc:sy5rzmzyu6rvsxnkgis5v4pq/feed/bookmarks) or via the web app [skymark.me](https://skymark.me/) |
-
+| [Matt Eason](https://bsky.app/profile/did:plc:kktpfjnjjqahydpqbko5iqbj) | [DM to bookmark](https://bsky.app/profile/did:plc:fre2ebiuhu7cupmge4xuqcaq) | See Dev | DM @bookmarkit.bsky.social a post to bookmark it. [Feed](https://bsky.app/profile/bookmarkit.bsky.social/feed/bookmarks) ~ My testing first bookmark had a delay before appearing! |
 
 ## Desktop Browser
 
