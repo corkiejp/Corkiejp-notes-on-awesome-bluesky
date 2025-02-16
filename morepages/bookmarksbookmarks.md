@@ -13,6 +13,20 @@ There are third party methods to do so, but must of them are device/browser spec
 
 First method list here works across device/browser, but some people are reluctant to use it, publicly displayed.
 
+## Super Private Bookmarks
+### By DM/Chat to an alt accoount. 
+
+If you have an alt account send DM's to it. Once you initialize a chat been your accounts, you don't need to keep them open to others. \
+Thanks at [Listifications](https://bsky.app/profile/did:plc:yatb2t26fw7u3c7qcacq7rje) for that tip! [See here](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/morepages/Bluesky-Chat-TIP-Listifications.md)
+
+This is super private as you have **No third party involved!**. You could also send notes/reminders!
+
+If you don't have an alt account, setting one up is an easy process, you don't need alternative gmail just put a '.' in the address before the @.
+
+This method was spark by a post of [Mikhail Kats](https://bsky.app/profile/did:plc:abkp4sglznvkptyncrltve6t/post/3liaw5kjrjs2s), thanks!
+
+Will probably write more detailed instructions soon!
+
 ## 'PUSHPIN' 📌
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! **Don't just drop a pin**, add some keywords to be able to search for it later.
