@@ -23,7 +23,7 @@ This is super private as you have **No third party involved!**. You could also s
 
 If you don't have an alt account, setting one up is an easy process, you don't need alternative gmail just put a '.' in the address before the @.
 
-This method was spark by a post of [Mikhail Kats](https://bsky.app/profile/did:plc:abkp4sglznvkptyncrltve6t/post/3liaw5kjrjs2s), thanks!
+This method was sparked by a post of [Mikhail Kats](https://bsky.app/profile/did:plc:abkp4sglznvkptyncrltve6t/post/3liaw5kjrjs2s), thanks!
 
 Will probably write more detailed instructions soon!
 
