@@ -14,7 +14,7 @@ There are third party methods to do so, but must of them are device/browser spec
 First method list here works across device/browser, but some people are reluctant to use it, publicly displayed.
 
 ## Super Private Bookmarks
-### By DM/Chat to an alt accoount. 
+### By DM/Chat to an alt account. 
 
 If you have an alt account send DM's to it. Once you initialize a chat been your accounts, you don't need to keep them open to others. \
 Thanks at [Listifications](https://bsky.app/profile/did:plc:yatb2t26fw7u3c7qcacq7rje) for that tip! [See here](https://github.com/corkiejp/Corkiejp-notes-on-awesome-bluesky/blob/main/morepages/Bluesky-Chat-TIP-Listifications.md)
