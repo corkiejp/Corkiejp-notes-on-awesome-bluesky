@@ -19,7 +19,7 @@ I have accounts on other platforms but not active on them anymore like Linkedin.
 
 
 ![Corkiejp.bsky.social official user number on bluesky](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lgjvdkqeeutvf7zj6wow3jro/bafkreicbr6sy4pb5zxysm5plx6xdirizmo43qmslccohss5mftqgwfmv2a@jpeg) 
-^^ Posted on my account Sept16 see [bluesky post](https://bsky.app/profile/corkiejp.bsky.social/post/3l4cjnbwiyx2x)
+^^ Posted on my account Sept16 see [bluesky post](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro/post/3l4cjnbwiyx2x)
 
 ![Joined Github](https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg) 
 << Joined GitHub on October 23, 2017
