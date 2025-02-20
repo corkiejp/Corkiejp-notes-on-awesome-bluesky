@@ -25,8 +25,6 @@ If you don't have an alt account, setting one up is an easy process, you don't n
 
 This method was sparked by a post of [Mikhail Kats](https://bsky.app/profile/did:plc:abkp4sglznvkptyncrltve6t/post/3liaw5kjrjs2s), thanks!
 
-Will probably write more detailed instructions soon!
-
 ## 'PUSHPIN' 📌
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! **Don't just drop a pin**, add some keywords to be able to search for it later.
