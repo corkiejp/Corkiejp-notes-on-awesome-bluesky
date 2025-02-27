@@ -2,6 +2,8 @@
 
 **Latest utility added here!** - [TheBlue.social](https://theblue.social) by [Hwee-Boon Yar](https://github.com/hboon)
 
+**Warning!** New utilty mimicking [Listifications](https://bsky.app/profile/listifications.app) and spreading misinformation about it! Won't feature here.
+
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
 
@@ -79,7 +81,7 @@ The below may or may not feature in awesome list!
 
 ## corkiejp's social links
 - BlueSky: -
-  - [corkiejp.bsky.social](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug
+  - [corkiejp.posts.fyi](https://bsky.app/profile/did:plc:lgjvdkqeeutvf7zj6wow3jro) I was no #6,212,866 to Joined Bluesky Aug
   - [corkiejp.github.io](https://bsky.app/profile/did:plc:qxlh6bohvep3taqhmtpipx4b) Created this account on 01/12/2024
 * See additional socials proving I have been using the 'corkiejp' handle for years. << [Click here!](corkiejp-socials.md)
   
