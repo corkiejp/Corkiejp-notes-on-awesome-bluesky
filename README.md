@@ -2,7 +2,7 @@
 
 **Latest utility added here!** - [TheBlue.social](https://theblue.social) by [Hwee-Boon Yar](https://github.com/hboon)
 
-**Warning!** New utilty mimicking [Listifications](https://bsky.app/profile/listifications.app) and spreading misinformation about it! Won't feature here.
+**Warning!** New utilty mimicking [Listifications](https://bsky.app/profile/listifications.app) and spreading misinformation about it! [More Information](/morepages/moderation-block-lists.md)
 
 Looking at [Awesome-bluesky](https://github.com/fishttp/awesome-bluesky) by [Fishttp](https://github.com/fishttp) and listing github and bluesky accounts associated with the utilities!
 The list will not be categorised but additions made as I research the utilities. I'm mainly just listing utilities, I like and will probably use.
