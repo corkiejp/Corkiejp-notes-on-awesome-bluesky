@@ -18,3 +18,7 @@ But from behind the block proceed to continue attack me and encouraged others to
 I don't really care, because they are filtering out content, I probably don't want to see anyway. So the accounts sheep are welcome to their walled off echo chamber!
 
 Reminder bluesky is public platform and anything you post as a thread/reply is open to be challenged, nobody is invading your replies to challenge you on possible misinformation.  
+
+
+
+<<< Back to [Notes on Awesome](/README.md)
