@@ -108,7 +108,7 @@ Another often requested feature for Bluesky, is to be able to get notification o
 Let me bring your attention to **BlueNotify: -** [Android](https://play.google.com/store/apps/details?id=com.austinwitherspoon.bluenotify) | [iOS](https://apps.apple.com/gb/app/bluenotify/id6738239349)
 By [Austin Witherspoon](https://bsky.app/profile/did:plc:jpkjnmydclkafjyicv3s6hcx).
 
-Web: [web.bluenotify.app](web.bluenotify.app)
+Web: [web.bluenotify.app](https://web.bluenotify.app/)
 
 Separate incident from your mobile version:-
 
