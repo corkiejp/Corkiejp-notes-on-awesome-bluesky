@@ -29,9 +29,13 @@ This method was sparked by a post of [Mikhail Kats](https://bsky.app/profile/did
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) by [Jaz](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt) - Bookmarks! A feed of posts you've replied to with a 📌. Handy bookmark method as other external methods are limited to a device/browser! **Don't just drop a pin**, add some keywords to be able to search for it later.
 
-[Quickly access and browse your pinned posts on Bluesky.](https://bskyinsights.com/bookmarks) by [Bluesky Insights](https://bsky.app/profile/did:plc:5lmbgv4zgbw3y2zr67xdysf6)
-
 ![Push Pin make a note](/assets/pushpinnote.jpg)
+
+**NOTES**
+
+Jaz's 'Pushpin' feed was offline recently, I ended up creating my own with [skyfeed](https://skyfeed.app/) see [Instructiions here!](https://startrek.website/post/21580696)
+
+[Quickly access and browse your pinned posts on Bluesky.](https://bskyinsights.com/bookmarks) by [Bluesky Insights](https://bsky.app/profile/did:plc:5lmbgv4zgbw3y2zr67xdysf6)
 
 ## Private Bookmarks 🔖
 
