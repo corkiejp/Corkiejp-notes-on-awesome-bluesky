@@ -21,3 +21,9 @@ Found out about this app from this youtube [How to Use Bluesky! ~ From Beginner 
 ## Post Notifactions from @posts.listifications.app
 
 From the same creator ([Dominik Picheta](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii)) as the popular Listifications utility!
+
+This is an early beta, in testing phase at the moment!
+
+It is easay to setup by doing the following:- 
+- Create a list of accounts you want to be notified about on your profile called “Post Notifications”! Not mod list!
+- Follow [posts.listifications.app](https://bsky.app/profile/did:plc:hqrgcv22lmizozkplfuevpmw)
