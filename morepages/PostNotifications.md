@@ -1,7 +1,9 @@
-# BlueNotify
-## Post Notifications for Bluesky
 
-Another often requested feature for Bluesky, is to be able to get notification of newest post fron you favourite accounts. 
+# Post Notifications for Bluesky
+
+## BlueNotify
+
+Often requested feature for Bluesky, is to be able to get notification of newest post fron you favourite accounts. 
 
 Let me bring your attention to **BlueNotify: -** [Android](https://play.google.com/store/apps/details?id=com.austinwitherspoon.bluenotify) | [iOS](https://apps.apple.com/gb/app/bluenotify/id6738239349)
 By [Austin Witherspoon](https://bsky.app/profile/did:plc:jpkjnmydclkafjyicv3s6hcx).
