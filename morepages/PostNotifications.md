@@ -49,7 +49,11 @@ Recently came accross [Blueview.app](https://blueview.app/) by [Simon Holmes](ht
 I only began testing it and still have to find accounts to be notified of, that I haven't already getting notifications from on Bluenotify.
 
 
+
+
+
 <<< Back to [Bookmarks](/morepages/bookmarksbookmarks.md)
+
 <<< Back to [Notes on Awesome](/README.md)
 
 
