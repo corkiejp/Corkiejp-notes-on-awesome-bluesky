@@ -34,8 +34,8 @@ It is easay to setup by doing the following:-
 ### Limitations of above!
 
 - You at present get notifications from accounts with a large following only
-  "set up so that only accounts with 10k+ followers are eligible"
-  "it's only top-level posts. You won't be notified when people repost or reply to others."
+  - "set up so that only accounts with 10k+ followers are eligible"
+  - "it's only top-level posts. You won't be notified when people repost or reply to others."
 - You don't need to have a large following yourself to use it.
 
 
