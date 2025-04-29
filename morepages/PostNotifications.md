@@ -1,5 +1,5 @@
 
-# Post Notifications for Bluesky
+# Post Notifications from Bluesky!
 
 ## BlueNotify
 
@@ -42,7 +42,7 @@ It is easy to setup by doing the following:-
 
 ### How to find accounts that meet the criteria?
 
-Use an analtyics tool of your choice to find the followers of yours that have a large following1
+Use an analytics tool of your choice to find the followers of yours that have a large following!
 
 Recently came accross [Blueview.app](https://blueview.app/) by [Simon Holmes](https://bsky.app/profile/did:plc:x476ra5ygaolra5oggenmcsc) which gives that information.
 
