@@ -27,3 +27,15 @@ This is an early beta, in testing phase at the moment!
 It is easay to setup by doing the following:- 
 - Create a list of accounts you want to be notified about on your profile called “Post Notifications”! Not mod list!
 - Follow [posts.listifications.app](https://bsky.app/profile/did:plc:hqrgcv22lmizozkplfuevpmw)
+- Enable ongoing conversations from the account by sending a DM/Chat to it. No need to have chats open to everyone!
+- On other list detail the reason for it in the description, so accounts don't block to get of the list. Ask them to tag you for removal!
+- See below for details on the limitations of the notification system at present!
+
+### Limitations of above!
+
+- You at present get notifications from accounts with a large following only
+  "set up so that only accounts with 10k+ followers are eligible"
+  "it's only top-level posts. You won't be notified when people repost or reply to others."
+- You don't need to have a large following yourself to use it.
+
+
