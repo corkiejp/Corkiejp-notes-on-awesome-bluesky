@@ -44,7 +44,7 @@ It is easay to setup by doing the following:-
 
 Use an analtyics tool of your choice to find the followers of yours that have a large following1
 
-Recently came accross [Blueview.app}(https://blueview.app/) by [Simon Holmes](https://bsky.app/profile/did:plc:x476ra5ygaolra5oggenmcsc) which gives that information.
+Recently came accross [Blueview.app](https://blueview.app/) by [Simon Holmes](https://bsky.app/profile/did:plc:x476ra5ygaolra5oggenmcsc) which gives that information.
 
 I only began testing it and still have to find accounts to be notified of, that I haven't already getting notifications from on Bluenotify.
 
