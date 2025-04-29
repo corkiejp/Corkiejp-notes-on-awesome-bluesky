@@ -6,6 +6,7 @@ A List of linked pages on 'Notes On Awesome'!
   - 📌 Bluesky Bookmarks! Bookmarks! [Link](bookmarksbookmarks.md)
   - Block 'X' Embeds on forums and websites. [Link](/morepages/BlockXembeds.md)
   - [miss-information and bad assumptions made about 'Threadreaders'/'unroll bots'](/morepages/BS-miss-information.md)
+  - [Post Notifications](/morepages/PostNotifications.md)
 
 
 
