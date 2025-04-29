@@ -17,3 +17,7 @@ See: - https://bsky.app/profile/bluenotify.app/post/3lkrdkn5ans2m
 or:- https://bsky.app/profile/bluenotify.app
 
 Found out about this app from this youtube [How to Use Bluesky! ~ From Beginner to Pro!](https://www.youtube.com/watch?v=Jr58OOIYjN4) which was shared on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1ik9rhs/ive_made_a_tutorial_on_using_bluesky/).
+
+## Post Notifactions from @posts.listifications.app
+
+From the same creator ([Dominik Picheta](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii)) as the popular Listifications utility!
