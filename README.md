@@ -28,6 +28,7 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 - [Privacy of your data on Bluesky/'AT Protocol'](https://mackuba.eu/2024/02/21/bluesky-guide/#privacy)
 - ['Threadreaders' or 'unroll bots' ~ miss-information and bad assumptions](/morepages/BS-miss-information.md)
 - [📌 Bluesky Bookmarks! Bookmarks!](/morepages/bookmarksbookmarks.md)
+- [Post Notifications](/morepages/PostNotifications.md)
 
 
 ## Support Dev's 
