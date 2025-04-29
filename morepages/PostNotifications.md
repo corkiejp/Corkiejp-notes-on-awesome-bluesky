@@ -24,7 +24,7 @@ From the same creator ([Dominik Picheta](https://bsky.app/profile/did:plc:blbkti
 
 This is an early beta, in testing phase at the moment!
 
-It is easay to setup by doing the following:- 
+It is easy to setup by doing the following:- 
 - Create a list of accounts you want to be notified about on your profile called “Post Notifications”! Not mod list!
 - Follow [posts.listifications.app](https://bsky.app/profile/did:plc:hqrgcv22lmizozkplfuevpmw)
 - Enable ongoing conversations from the account by sending a DM/Chat to it. No need to have chats open to everyone!
