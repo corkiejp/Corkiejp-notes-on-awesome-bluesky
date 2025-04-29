@@ -1,7 +1,7 @@
 # 📌 Bluesky Bookmarks! Bookmarks!
 
 ### Anouncement
-Do you want to get notification when your favourite accounts post? [Click here to see addition at bottom of page](#bluenotify).
+Do you want to get notification when your favourite accounts post? New page created for that see:-  [Post Notifications](/morepages/PostNotifications.md)
 
 ### Back to featured information.
 
@@ -104,23 +104,10 @@ Got a suggestion for 'Skymarks' in a [reply to reddit post](https://www.reddit.c
 |[Sebastian Vogelsang](https://bsky.app/profile/did:plc:ituoear7k6qx3smjfoxhufm4) | **Skeets for Bluesky**:- [Bluesky](https://bsky.app/profile/did:plc:mdpndtkinvfaxtf64ubgftzs), [Website](https://www.skeetsapp.com/), [iOS App Store](https://apps.apple.com/us/app/skeets-for-bluesky/id6466340923) | N/A or unknown | Skeets is a native Bluesky app that supports both iOS and iPad OS.Has bookmarks but not sure if paid feature? Found out on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1ilsf2o/a_lot_of_the_features_yall_are_missing_from/) |
 |[Shivam Rishi](https://bsky.app/profile/did:plc:ln7vrncvvmehvony26h7os3t)|[PostPocket](https://apps.apple.com/au/app/postpocket-save-read-later/id6670723615) | N/A or Unknown | iOS app to bookmark posts not tested found on awesome list. |
 
-# BlueNotify
+
 ## Post Notifications for Bluesky
 
-Another often requested feature for Bluesky, is to be able to get notification of newest post fron you favourite accounts. 
-
-Let me bring your attention to **BlueNotify: -** [Android](https://play.google.com/store/apps/details?id=com.austinwitherspoon.bluenotify) | [iOS](https://apps.apple.com/gb/app/bluenotify/id6738239349)
-By [Austin Witherspoon](https://bsky.app/profile/did:plc:jpkjnmydclkafjyicv3s6hcx).
-
-Web: [web.bluenotify.app](https://web.bluenotify.app/)
-
-Separate incident from your mobile version:-
-
-See: - https://bsky.app/profile/bluenotify.app/post/3lkrdkn5ans2m
-
-or:- https://bsky.app/profile/bluenotify.app
-
-Found out about this app from this youtube [How to Use Bluesky! ~ From Beginner to Pro!](https://www.youtube.com/watch?v=Jr58OOIYjN4) which was shared on [r/BlueskySocial](https://www.reddit.com/r/BlueskySocial/comments/1ik9rhs/ive_made_a_tutorial_on_using_bluesky/).
+New page created for these:- [Post Notifications](/morepages/PostNotifications.md)
 
 
 ## More + Additions?
