@@ -4,7 +4,7 @@ This page is a quick draft for future development and research into the Markdown
 
 Markdown is away to posts text with hyperlinks on blueksy, similar to the process on Reddit & Github.
 
-See thie [Youtube video](https://www.youtube.com/watch?v=K2JPpSAyBqw) by [Debbie Ridpath Ohi](https://bsky.app/profile/did:plc:5amsebbtpuqieuxuqadmmvcv) on how to use it.
+See this [Youtube video](https://www.youtube.com/watch?v=K2JPpSAyBqw) by [Debbie Ridpath Ohi](https://bsky.app/profile/did:plc:5amsebbtpuqieuxuqadmmvcv) on how to use it.
 
 Utilities i am aware of that allows you to use markdown:-
 
