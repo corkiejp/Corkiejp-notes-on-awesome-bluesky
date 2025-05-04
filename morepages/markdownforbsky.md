@@ -6,7 +6,9 @@ Markdown is away to posts text with hyperlinks on blueksy, similar to the proces
 
 See thie [Youtube video](https://www.youtube.com/watch?v=K2JPpSAyBqw) by [Debbie Ridpath Ohi](https://bsky.app/profile/did:plc:5amsebbtpuqieuxuqadmmvcv) on how to use it.
 
-Utilities i am aware of that allows you to do it:-
+See below for list 👇
+
+Utilities i am aware of that allows you to use markdown:-
 
 - [deck blue](https://deck.blue/) by [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5)
 - [Skeetdeck](https://skeetdeck.pages.dev/) by [mary🐇](https://bsky.app/profile/did:plc:ia76kvnndjutgedggx2ibrem)
