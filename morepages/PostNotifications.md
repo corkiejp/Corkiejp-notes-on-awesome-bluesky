@@ -37,7 +37,7 @@ It is easy to setup by doing the following:-
 ### Limitations of above!
 
 - You at present get notifications from accounts with a large following only
-  - "set up so that only accounts with 10k+ followers are eligible"
+  - "set up so that only accounts with 1,000 followers are eligible"
   - "it's only top-level posts. You won't be notified when people repost or reply to others."
 - You don't need to have a large following yourself to use it.
 - [Bluesky Thread](https://bsky.app/profile/did:plc:blbktib4slim5ttdovyu7vii/post/3lnsoc7nd322s) discussing it.
