@@ -24,7 +24,7 @@ From the same creator ([Dominik Picheta](https://bsky.app/profile/did:plc:blbkti
 
 ~~This is an early beta, in testing phase at the moment!~~
 
-[Blueshy thread annoucing the features and instructions!](https://bsky.app/profile/did:plc:hqrgcv22lmizozkplfuevpmw/post/3logcjpzlwk2v)
+[Blueshy thread annoucing the feature and instructions!](https://bsky.app/profile/did:plc:hqrgcv22lmizozkplfuevpmw/post/3logcjpzlwk2v)
 
 It is easy to setup by doing the following:- 
 - Create a list of accounts you want to be notified about on your profile called “Post Notifications”! Not mod list!
