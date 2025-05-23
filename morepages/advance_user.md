@@ -8,7 +8,10 @@ If you want to upgrade your 'Bluesky' usuage to next level? Here is a list of ut
 - [SkeetBeaver](https://skeetbeaver.pages.dev/) by [Casey Ho](https://bsky.app/profile/did:plc:d7nr65djxrudtdg3tslzfiyr) -  facilitates analysis of publicly available information retrived from the Bluesky API.
 - [ATProto Tools](https://atp.tools/) by [natalie](https://bsky.app/profile/did:plc:k644h4rq5bjfzcetgsa6tuby) ~ A website for my ATProto tools and utilities. Currently includes a record navigator.
 
+Handy Utilities
 
+- [Generate Alt Text for Images](https://theblue.social/generate-image-alt-text) by theblue.social ~ Required for viewes who may have limited visibilty.
+- [Bluesky Alt Text Generator](https://alttext.symm.app/) by symm.app ~ Another alternative to above also browser extension see [Bluesky Post](https://bsky.app/profile/did:plc:4y4wmofpqlwz7e5q5nzjpzdd/post/3lp5mssg3ls2a)
 
 
 
