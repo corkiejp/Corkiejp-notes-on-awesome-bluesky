@@ -13,7 +13,7 @@ There are third party methods to do so, but must of them are device/browser spec
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) list here works across device/browser, but some people are reluctant to use it, publicly displayed.
 
-## ATProtoViewer ~ Android PWA
+## ATProtoViewer ~ Android/Chrome PWA
 ### Plugging my own recent creation.
 
 [ATProtoViewer ~ PWA + #Bookmarks + bsky share feature.](https://corkiejp.github.io/ATProtoViewer/index.html)
