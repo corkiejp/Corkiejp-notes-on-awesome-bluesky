@@ -13,7 +13,18 @@ There are third party methods to do so, but must of them are device/browser spec
 
 ['Puskpin' 📌](https://bsky.app/profile/jaz.bsky.social/feed/my-pins) list here works across device/browser, but some people are reluctant to use it, publicly displayed.
 
-## Super Private Bookmarks
+## ATProtoViewer ~ Android PWA
+### Plugging my own recent creation.
+
+[ATProtoViewer ~ PWA + #Bookmarks + bsky share feature.](https://corkiejp.github.io/ATProtoViewer/index.html)
+
+This is my own experimental ATProto Record Viewer created on Github pages. Static HTML with the limitations of same. \
+[Source code available](https://github.com/corkiejp/corkiejp.github.io/tree/well-known/ATProtoViewer) \
+So you can just download it and run it localy or on your own site. Just get index.html, bookmarks.html, BlueskyPostViewer.html and Blueskyessentiallinks.html and put in a folder. You would lose the bluesky share on a local system. But if hosting your self you would also need the associated PWA files with edits for your server. \
+As it uses static HTML files there is no backend server, no account details are request so no privacy issues. \
+Utilizes LocalStorage for bookmarks, import/export feature built in.
+
+## Super Private Bookmark\ 
 ### By DM/Chat to an alt account. 
 
 If you have an alt account send DM's to it. Once you initialize a chat been your accounts, you don't need to keep them open to others. \
