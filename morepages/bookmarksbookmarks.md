@@ -24,7 +24,7 @@ So you can just download it and run it localy or on your own site. Just get inde
 As it uses static HTML files there is no backend server, no account details are request so no privacy issues. \
 Utilizes LocalStorage for bookmarks, import/export feature built in.
 
-## Super Private Bookmark\ 
+## Super Private Bookmark 
 ### By DM/Chat to an alt account. 
 
 If you have an alt account send DM's to it. Once you initialize a chat been your accounts, you don't need to keep them open to others. \
