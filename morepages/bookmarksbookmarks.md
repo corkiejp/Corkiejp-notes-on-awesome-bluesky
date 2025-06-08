@@ -20,7 +20,7 @@ There are third party methods to do so, but must of them are device/browser spec
 
 This is my own experimental ATProto Record Viewer created on Github pages. Static HTML with the limitations of same. \
 [Source code available](https://github.com/corkiejp/corkiejp.github.io/tree/well-known/ATProtoViewer) \
-So you can just download it and run it localy or on your own site. Just get index.html, bookmarks.html, BlueskyPostViewer.html and Blueskyessentiallinks.html and put in a folder. You would lose the bluesky share on a local system. But if hosting your self you would also need the associated PWA files with edits for your server. \
+So you can just download it and run it localy or on your own site. Just get index.html, bookmarks.html, BlueskyPostViewer.html, Blueskyessentiallinks.html and ATProtoSimpleFeeds.html put them in a folder. You would lose the bluesky share on a local system. But if hosting your self you would also need the associated PWA files with edits for your server. \
 As it uses static HTML files there is no backend server, no account details are request so no privacy issues. \
 Utilizes LocalStorage for bookmarks, import/export feature built in.
 
