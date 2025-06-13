@@ -55,6 +55,8 @@ As excellent as 'Fishttp' list is I found it lacking in contacts for the develop
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) | Subscription to unlock more features | Android PWA for Bookmarks! See [Notes on bookmarks](/morepages/bookmarksbookmarks.md) |
 | [Alex](https://bsky.app/profile/did:plc:er6erflnnxcozlbqmrpflt6h), [github](https://github.com/vordgi)| [Atsky.app](https://atsky.app/) [Bluesky](https://bsky.app/profile/did:plc:f4r66r4tlhld3g3puannbxsq) | N/A Unknown | advanced Bluesky client with charts, bookmarks, detailed lists view, additional tools and much more. Powered by @vordgi.com. |
 
+| [Uwe Maurer](https://bsky.app/profile/did:plc:ifrogbys22m5akvhlruxiahk), [Mathijs Vogelzang](https://bsky.app/profile/did:plc:jq5s2z2zvsraner4fwqetyct) | [bluefacts.app](https://bluefacts.app/) [Bluesky](https://bsky.app/profile/did:plc:j3qij7oqe6gie2x56gk5s6tx) | N/A Unknown | Bluesky Trends and Insights ~ Discover interesting people and trends on Bluesky |
+
 ^^ Sorry for diference in formating for the above, created for an edit in another repo.
 
 See [Support Devs above](#support-devs)
