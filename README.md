@@ -2,7 +2,7 @@
 
 ## Bluefacts.app have decided to revitalise the awesome bluesky list.
 
-[Bluefacts Repo](https://github.com/bluefacts-app/awesome-bluesky] ~ [My Fork](https://github.com/corkiejp/awesome-bluesky-bfacts) ~ [Bluesky Thread](https://bsky.app/profile/did:plc:j3qij7oqe6gie2x56gk5s6tx/post/3lrib3ossjs2o)
+[Bluefacts Repo](https://github.com/bluefacts-app/awesome-bluesky) ~ [My Fork](https://github.com/corkiejp/awesome-bluesky-bfacts) ~ [Bluesky Thread](https://bsky.app/profile/did:plc:j3qij7oqe6gie2x56gk5s6tx/post/3lrib3ossjs2o)
 
 **Warning!** New utilty mimicking [Listifications](https://bsky.app/profile/listifications.app) and spreading misinformation about it! [More Information](/morepages/moderation-block-lists.md)
 
